@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg"<img src="https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg" alt="Bnh bot" border="0"></a>
 
-# **Bnh : Upcoming bot**
+# **Bnh : Anime themed bot**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
