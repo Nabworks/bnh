@@ -1,8 +1,9 @@
 <div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
 
-# **Bnh : Next Level Void WhatsApp BOTTO
-    N.B please dont fork as of now**
+# Bnh : Next Level Void WhatsApp BOTTO
+    N.B please dont deploy as of now
+    if you want to deply click [![help](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
