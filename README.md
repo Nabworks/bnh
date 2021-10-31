@@ -1,21 +1,17 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
+<a href="https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg"<img src="https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg" alt="Bnh bot" border="0"></a>
 
-# Bnh : NB do not deploy as of now because this is kaoi
+# **Bnh : Upcoming bot**
 
+[![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
-
-
-
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4m8zLPwTme9II9aZWRZJ1) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 > A Fully Modular and Efficient Bot <br>
 
-Button : If you are deploying normally
 
+Button : press here to deploy bnh
 
-
-
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 
 
@@ -33,8 +29,7 @@ Button : If you are deploying normally
 
 ## 💻 Deploy/Hosting Guide
 
--   Section Moved to
-    [Kaoi-Guides](https://github.com/Hiroto77/Kaoi-Guides/blob/main/README.md)
+-   Section Moved to [Kaoi-Guides](https://github.com/Hiroto77/Kaoi-Guides)
 
 ## 🍥 Features of the Repo
 
@@ -56,7 +51,7 @@ Button : If you are deploying normally
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+ coming soon...
 
 ## 📄 License
 
