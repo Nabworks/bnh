@@ -11,7 +11,7 @@
 
 Button : press here to deploy bnh
 
-[![Deploy](https://heroku.com/deploy)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/cyberkingcr7/bnh/blob/main)
 
 
 
