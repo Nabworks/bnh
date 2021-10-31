@@ -11,7 +11,7 @@
 
 Button : press here to deploy bnh
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://heroku.com/deploy)
 
 
 
