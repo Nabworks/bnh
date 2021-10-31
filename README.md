@@ -3,7 +3,7 @@
 
 # Bnh : Next Level Void WhatsApp BOTTO
     N.B please dont deploy as of now
-    if you want to deply click [![help](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
+    if you want to deply click #[![help](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
