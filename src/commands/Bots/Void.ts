@@ -9,7 +9,7 @@ export default class Command extends BaseCommand {
             command: 'info',
             description: 'Displays the info',
             category: 'bots',
-            usage: `${client.config.prefix}void`,
+            usage: `${client.config.prefix}info`,
             baseXp: 100
         })
     }
