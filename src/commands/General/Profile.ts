@@ -29,24 +29,24 @@ export default class Command extends BaseCommand {
         try {
             pfp = await this.client.getProfilePicture(user)
         } catch (err) {
-            M.reply(`Profile Picture not Accessible of ${username}`)
+            M.reply(`${username} doesnt have a profile pic`)
             pfp =
-                'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kawaii_robot_power_clipart.svg/640px-Kawaii_robot_power_clipart.svg.png'
+                'https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg'
         }
         const data = await this.client.getUser(user)
         await M.reply(
             await request.buffer(
                 pfp ||
-                    'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kawaii_robot_power_clipart.svg/640px-Kawaii_robot_power_clipart.svg.png'
+                    'https://uploader.hardianto.xyz/uploads/recfile-1633897234298.jpg'
             ),
             MessageType.image,
             undefined,
             undefined,
-            `🎋 *Username: ${username}*\n\n🎫 *About: ${
+            `🎋 *Username: ${username}*\n\n🎫 *Bio: ${
                 (await this.client.getStatus(user)).status || 'None'
             }*\n\n🌟 *XP: ${data.Xp || 0}*\n\n👑 *Admin: ${
                 M.groupMetadata?.admins?.includes(user) || false
-            }*\n\n❌ *Ban ${data.ban || false}*`
+            }*\n\n *🏴‍☠️Ban: ${data.ban || false}*`
         )
     }
 }
