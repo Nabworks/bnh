@@ -25,3 +25,4 @@ run = async (M: ISimplifiedMessage): Promise<void> => {
             username = user.split('@')[0]
         }
         return void (await M.reply(`${username} you have : ${(await this.client.getUser(user)).Wallet || 0} wallet`)) }
+}
