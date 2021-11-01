@@ -24,4 +24,4 @@ run = async (M: ISimplifiedMessage): Promise<void> => {
             // username = contact.notify || contact.vname || contact.name || user.split('@')[0]
             username = user.split('@')[0]
         }
-        return void (await M.reply(`${username} you have money: ${(await this.client.getUser(user)).Wallet || 0}`))
+        return void (await M.reply(`${username} you have money: ${(await this.client.getUser(user)).wallet || 0}`))
