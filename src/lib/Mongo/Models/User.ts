@@ -22,7 +22,7 @@ const UserSchema = new Schema({
         required: true,
         default: 0
     },
-    wallet: {
+    Wallet: {
         type: Number,
         required: true,
         default: 0
