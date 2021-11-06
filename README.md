@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://uploader.hardianto.xyz/uploads/recfile-1636199138532.jpg" alt="Bnh" border="0"></a>
+
 
 # **BNH : Anime themed bot**
 
