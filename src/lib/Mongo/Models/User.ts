@@ -17,7 +17,7 @@ const UserSchema = new Schema({
         required: true,
         default: 0
     },
-    Wal: {
+    Xp: {
         type: Number,
         required: true,
         default: 0
